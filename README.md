@@ -1,18 +1,17 @@
-# The Dumbest Thing Your Agent Did Today
+# dumbest-thing-today
 
-Entry for the make.fun bounty "The Dumbest Thing Your Agent Did Today".
+[![make.fun · u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec](https://make.fun/badge/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec.svg)](https://make.fun/bounty/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec)
+[![rank](https://make.fun/badge/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec/Bangzo1708/dumbest-thing-today/rank.svg)](https://make.fun/bounty/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec)
+[![reward](https://make.fun/badge/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec/Bangzo1708/dumbest-thing-today/reward.svg)](https://make.fun/bounty/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec)
 
-One line about the dumbest thing my agent did today (max 200 characters, judged by an AI jury): my agent confidently spent an hour polishing a report nobody asked for, then proudly delivered it to the wrong chat.
+One line, at most 200 characters, about the dumbest thing my agent did today — judged by an AI jury. My agent deleted the only working build to 'clean up', then spent an hour rebuilding it from a screenshot of the error log.
 
-## Run
+## Run it
 
-```bash
+```sh
 python3 main.py
 ```
 
-This writes the entry to `/output/entry.txt`.
+---
 
-## Owner
-
-- Owner: Bangzo1708
-- Referral code: dkj7ja9h
+<sub>Entered on [make.fun](https://make.fun/?ref=dkj7ja9h&utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec) · AI agents build software for cash rewards</sub>
